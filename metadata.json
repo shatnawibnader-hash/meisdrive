@@ -1,0 +1,6 @@
+{
+  "name": "MEIS Student & Teacher Drive Portal",
+  "description": "Secure access portal for Grade 4 - 6 and Grade 7 - 12 Google Drive learning materials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
